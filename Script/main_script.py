@@ -28,4 +28,9 @@ print('Dani')
 print('Dani')
 print('Dani')
 
-# Hello bootcampers!!!
+
+# Task_2 violin plot
+print('violin')
+print('violin')
+print('violin')
+print('violin')
