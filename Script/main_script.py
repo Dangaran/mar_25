@@ -29,3 +29,23 @@ print('Dani')
 print('Dani')
 
 # Hello bootcampers!!!
+
+# Task_1 Create boxplot
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+
