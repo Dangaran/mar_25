@@ -1,3 +1,9 @@
+# Ignore (not upload) csv, excel and pdf files
+*.csv
+*.xlsx
+*.pdf
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
