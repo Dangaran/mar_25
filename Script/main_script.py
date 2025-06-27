@@ -8,7 +8,6 @@ print('Dani')
 
 # Create barplot
 print('barplot')
-print('var_1')
 print('barplot')
 print('barplot')
 print('barplot')
@@ -26,7 +25,26 @@ print('Dani')
 print('Dani')
 print('Dani')
 print('Dani')
-print('Dani')
+
+
+# Task_1 Create boxplot
+print('Guillermo')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
+print('task_1')
 
 
 # Task_2 violin plot
